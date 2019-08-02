@@ -1,0 +1,10 @@
+./sample.php
+./admin.html
+./admin.php
+./login.html
+./p1.php
+./sign.html
+./bal.php
+./f.txt
+./info.php
+
